@@ -4,17 +4,13 @@ This repository contains JavaScript fundamentals and practice exercises covering
 
 ## Structure
 
-- `01_Chapter_JavaScript/` - introductory JavaScript examples
-- `02_Javascript_Basics-1/` - basic JavaScript concepts
-- `03_Chapter_Identifer/` - identifiers and comments
-- `04_chapter_Literal/` - literals and number basics
 - `Lessons/` - lesson files and exercises
 - `helpers/` - helper utilities
 - `package.json` - project configuration and scripts
 
 ## Purpose
 
-The goal of this project is to practice JavaScript fundamentals step by step and build a strong foundation before moving into more advanced topics such as frameworks, automation, and TypeScript.
+This repository serves as a personal learning space for exploring Playwright automation. It includes practice exercises, proof-of-concept implementations, and automation challenges using JavaScript and TypeScript. As knowledge and experience grow, the repository will be transformed into a structured automation framework following industry best practices.
 
 ## Usage
 
